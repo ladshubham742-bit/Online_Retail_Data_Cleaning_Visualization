@@ -311,9 +311,13 @@ Matplotlib
 Seaborn
 
 👨‍💻 Author
-
 Shubham Lad
 
-Artificial Intelligence & Data Science Student
+🔗 GitHub
+https://github.com/ladshubham742-bit/Shubham-Lad.
 
-⭐ If you found this project useful, consider giving the repository a star!
+🔗 LinkedIn
+www.linkedin.com/in/shubham-lad-314a66319.
+
+⭐ If You Find This Project Useful
+If you find this project helpful, consider giving the repository a ⭐ on GitHub!
